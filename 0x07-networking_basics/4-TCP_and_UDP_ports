@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#4. TCP and UDP ports
+
+netstat -1 --program
